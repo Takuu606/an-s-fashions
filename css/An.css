@@ -444,6 +444,10 @@ li a:hover {
     white-space: nowrap;
 }
 
+.btn-explore-two:hover{
+    background-color: #2a4230;
+    transform: scale(1.05);
+}
 .color-palette {
     display: flex;
     gap: 30px;
@@ -563,6 +567,11 @@ li a:hover {
     transition: all 0.3s;
     white-space: nowrap;
     letter-spacing: 4px;
+}
+
+.btn-explore-three:hover {
+    background-color: #2a4230;
+    transform: scale(1.05);
 }
 
 .green-box {
